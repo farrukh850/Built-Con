@@ -1,0 +1,20 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 15px;
+    color: #000;
+    
+}
+.navbar-brand h2{
+    font-weight: 600;
+}
+
+.navbar-brand h2 b{
+    color: #74b9ff;
+}
+
